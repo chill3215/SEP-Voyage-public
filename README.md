@@ -47,7 +47,7 @@ simultaneously.
 ## Important Notes
 
 ### Backend Cold Start
-When opening the demo for the first time after inactivity, the backend server may need time to start. As a result, first requests may take longer than usual, please wait a short moment before retrying
+When opening the demo for the first time after inactivity, the backend server may need time to start. As a result, first requests may take longer than usual, please wait a short moment.
 
 ---
 
